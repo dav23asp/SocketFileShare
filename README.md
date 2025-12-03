@@ -1,6 +1,6 @@
 # SocketFileShare
 
-SocketFileShare is a simple socket-based file sharing tool.
+Collaborative project tasked with creating a simple socket-based file sharing tool.
 It runs a Python TCP server and a Python client so you can upload, download, and manage files over the network.
 The project also logs basic performance metrics for transfers.
 
