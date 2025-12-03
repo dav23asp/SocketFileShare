@@ -1,3 +1,12 @@
+# Project Members:
+## Teammate 1: Zackariah Aziz 
+
+## Teammate 2: David Serra (Self)
+
+## Teammate 3: Le Vi Pham 
+
+## Teammate 4: Sri Medha Bathula 
+
 # SocketFileShare
 
 Collaborative project tasked with creating a simple socket-based file sharing tool.
